@@ -5,4 +5,4 @@ statsmodels
 matplotlib
 pandas-profiling
 seaborn
-ipykernel
+ipykernel 
