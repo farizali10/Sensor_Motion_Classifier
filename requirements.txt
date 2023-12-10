@@ -6,3 +6,4 @@ matplotlib
 pandas-profiling
 seaborn
 ipykernel 
+imbalanced-learn
