@@ -1,0 +1,15 @@
+Model Penalty,Score
+lbfgs_l2,0.6709
+lbfgs_None,0.6711
+liblinear_l1,0.658
+liblinear_l2,0.6578
+newton-cg_l2,0.6708
+newton-cg_None,0.6711
+newton-cholesky_l2,0.658
+newton-cholesky_None,0.6581
+sag_l2,0.6709
+sag_None,0.671
+saga_elasticnet,0.6709
+saga_l1,0.671
+saga_l2,0.6708
+saga_None,0.6711
